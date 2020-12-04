@@ -3,7 +3,7 @@
 ElFinancial Analysis
 xxxxxxxxxxxxxxxxxxxxxxxx
 Total Months: 86
--Total Profits: $38382578
+Total Profits: $38382578
 Average Change:  446309.05
-Greatest Increase in Profits:  Feb-2017: $671099
-Greatest Decrease in Profits:  : $999999
+Greatest Increase in Profits:  Feb-2012: $1170593
+Greatest Decrease in Profits:  Sep-2013: $-1196225
